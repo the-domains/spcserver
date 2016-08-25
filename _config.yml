@@ -6,9 +6,13 @@ color:
   saturation: 0.36164830811321735
   rhythmicContrast: 0.2803068330977112
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
 name: spcserver
+navigation:
+  - name: About
+    url: 'http://www.spcserver.com'
+    type: external
