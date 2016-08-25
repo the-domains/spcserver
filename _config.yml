@@ -12,7 +12,3 @@ color:
     - '#6B574B'
     - '#160600'
 name: spcserver
-navigation:
-  - name: About
-    url: 'http://www.spcserver.com'
-    type: external
