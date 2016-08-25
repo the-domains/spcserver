@@ -1,0 +1,14 @@
+layout_spectrum: 0.379809747915715
+typography_spectrum: 0.08308723894879222
+color:
+  brandStrength: 0.11093978909775615
+  lightness: 0.11594761232845485
+  saturation: 0.36164830811321735
+  rhythmicContrast: 0.2803068330977112
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+name: spcserver
